@@ -1,0 +1,11 @@
+h1 {
+color:#000000;
+}
+
+html { 
+  background: url(https://media.giphy.com/media/yNbzQkYolmwk8/giphy.gif) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
